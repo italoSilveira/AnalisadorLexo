@@ -1,0 +1,3 @@
+program SegundoErrado 
+
+num teste =! 80.60.20;

@@ -1,0 +1,10 @@
+program PrimeiroErrado 
+
+char primeiroNome;
+char segundoNome;
+
+char nomeComple@to;
+
+nomeCompleto === primeiroNome + '  + segundoNome;
+
+write nomeCompleto;

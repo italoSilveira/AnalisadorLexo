@@ -1,0 +1,13 @@
+program TerceiroCerto 
+
+num saldo;
+num conta_pagar;
+num desconto;
+num valor_total;
+
+/*Fazer a conta baseado no desconto*/
+if(desconto != 50){
+	valor_total = saldo - (conta_pagar - (conta_pagar* desconto / 100);
+}else if(desconto >= 50 and conta_pagar >= 500.00){
+	valor_total = saldo - (conta_pagar - (conta_pagar* desconto / 100)) + 2; "teste"
+}

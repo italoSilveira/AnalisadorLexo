@@ -1,0 +1,10 @@
+program SegundoCerto 
+
+char primeiroNome;
+char segundoNome;
+
+char nomeCompleto;
+
+nomeCompleto = primeiroNome + ' ' + segundoNome;
+
+write nomeCompleto;
